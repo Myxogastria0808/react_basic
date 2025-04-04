@@ -13,7 +13,7 @@ const App = () => {
           <Toggle />
           <MainTitle title='useEffect' />
           <Time />
-          <MainTitle title='fetvh API' />
+          <MainTitle title='fetch API' />
           <CallApi />
           <MainTitle title='Article' />
           <Article title='Hello1' content='I`m fine!' />
